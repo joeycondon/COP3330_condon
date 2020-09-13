@@ -1,5 +1,5 @@
 public class Encrypter {
-    public static void main(){
+    public static void main(123){
 
     }
 }
